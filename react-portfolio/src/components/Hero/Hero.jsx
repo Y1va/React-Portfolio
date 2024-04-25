@@ -11,7 +11,7 @@ export const Hero = () => {
         <p className={styles.description}>
           I'm currently studying Full-Stack development and learning a variety
           of new skills and techniques. I am looking forward to apply my skills
-          in a real world environment
+          in a real world environment.
         </p>
         <a href="mailto:ponzeadrian@gmail.com" className={styles.contactBtn}>
           Contact Me
