@@ -4,11 +4,11 @@ import styles from './About.module.css';
 
 export const About = () => {
   return (
-    <section className={styles.container}>
+    <section className={styles.container} id='about'>
       <h2 className={styles.title}>About</h2>
       <div className={styles.content}>
         <img
-          src={getImageUrl('about/aboutimage.png')}
+          src={getImageUrl('about/aboutheroimage.png')}
           alt="person sitting with laptop" className={styles.aboutImage}
         />
         <ul className={styles.aboutItems}>
