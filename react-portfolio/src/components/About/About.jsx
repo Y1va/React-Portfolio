@@ -1,19 +1,20 @@
 import React from 'react';
 import { getImageUrl } from '../../utils';
+import styles from './About.module.css';
 
 export const About = () => {
   return (
-    <section>
-      <h2>About</h2>
-      <div>
+    <section className={styles.container}>
+      <h2 className={styles.title}>About</h2>
+      <div className={styles.content}>
         <img
           src={getImageUrl('about/aboutimage.png')}
-          alt="person sitting with laptop"
+          alt="person sitting with laptop" className={styles.aboutImage}
         />
-        <ul>
-          <li>
+        <ul className={styles.aboutItems}>
+          <li className={styles.aboutItem}>
             <img src={getImageUrl('about/cursorIcon.png')} alt="Cursor Icon" />
-            <div>
+            <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
                 On my way to becoming a front-end developer with experience in
@@ -21,21 +22,24 @@ export const About = () => {
               </p>
             </div>
           </li>
-          <li>
+          <li className={styles.aboutItem}>
             <img src={getImageUrl('about/serverIcon.png')} alt="Server Icon" />
-            <div>
+            <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-                I have gained experience in developing fast and robust back-end systems as well as APIs
+                I have gained experience in developing fast and robust back-end
+                systems as well as APIs
               </p>
             </div>
           </li>
-          <li>
+          <li className={styles.aboutItem}>
             <img src={getImageUrl('about/uiIcon.png')} alt="UI Icon" />
-            <div>
+            <div className={styles.aboutItemText}>
               <h3>Full-Stack Developer</h3>
               <p>
-                With both Frontend and Backend capabilities I am equipped to build fully functional and operational full-stack web applications.
+                With both Frontend and Backend technology capabilities I am
+                equipped to build fully functional and operational full-stack
+                web applications.
               </p>
             </div>
           </li>
