@@ -1,0 +1,29 @@
+[
+  {
+    "role": "IT Service Desk Agent",
+    "organisation": "Datacom",
+    "startDate": "November, 2023",
+    "endDate": "Present",
+    "experiences": ["Assist users with their daily IT troubles and needs", "Provide technical solutions"],
+    "imageSrc": "history/datacom.png"
+  },
+  {
+    "role": "Process Worker",
+    "organisation": "PAX Australia",
+    "startDate": "Aug, 2021",
+    "endDate": "Aug, 2022",
+    "experiences": ["Processing orders for delivery", "Maintaining product inventory"],
+    "imageSrc": "history/pax.png"
+  },
+  {
+    "role": "SWE Intern",
+    "organisation": "Netflix",
+    "startDate": "Apr, 2020",
+    "endDate": "Jun, 2020",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]
