@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Wagerless",
+    "imageSrc": "projects/wagerless.png",
+    "description": "Innovative game designed to promote responsible gambling.",
+    "skills": ["Handlebars", "Express", "Node", "MySQL"],
+    "demo": "https://wagerless-app-96d9cde47554.herokuapp.com/",
+    "source": "https://github.com/Y1va/Wagerless?tab=readme-ov-file"
+  },
+  {
+    "title": "My First Portfolio",
+    "imageSrc": "projects/portfolio.png",
+    "description": "Basic Portfolio made with just HTML and CSS.",
+    "skills": ["HTML", "CSS"],
+    "demo": "https://y1va.github.io/02-My-Portfolio/",
+    "source": "https://github.com/Y1va/02-My-Portfolio?tab=readme-ov-file"
+  },
+  {
+    "title": "Movie Picker",
+    "imageSrc": "projects/moviepicker.png",
+    "description": "Movie generator that helps you find movie recommendation based on certain preferences.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://nuclearreid.github.io/Movie-Picker/",
+    "source": "https://github.com/NuclearReid/Movie-Picker?tab=readme-ov-file"
+  },
+  {
+    "title": "Express Notetaker",
+    "imageSrc": "projects/notetaker.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Express", "Node", "JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Password Generator",
+    "imageSrc": "projects/passwordgen.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Weather Application",
+    "imageSrc": "projects/weatherapp.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
