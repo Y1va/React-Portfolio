@@ -16,14 +16,14 @@
     "imageSrc": "history/pax.png"
   },
   {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
+    "role": "Junior Security Engineer",
+    "organisation": "Content Security",
+    "startDate": "Apr, 2023",
+    "endDate": "Jul, 2023",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Worked on documentation for internal technology configuration",
+      "Monitored EDR systems and performed in active Threat Hunting"
     ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/contentsecurity_logo.png"
   }
 ]
