@@ -2,15 +2,14 @@
   {
     "title": "Wagerless",
     "imageSrc": "projects/wagerless.png",
-    "description": "Innovative game designed to promote responsible gambling.",
-    "skills": ["Handlebars", "Express", "Node", "MySQL"],
+    "description": "",
+    "skills": ["Handlebars", "Express", "Node", "MySQL", "JavaScript"],
     "demo": "https://wagerless-app-96d9cde47554.herokuapp.com/",
     "source": "https://github.com/Y1va/Wagerless?tab=readme-ov-file"
   },
   {
     "title": "My First Portfolio",
     "imageSrc": "projects/portfolio.png",
-    "description": "Basic Portfolio made with just HTML and CSS.",
     "skills": ["HTML", "CSS"],
     "demo": "https://y1va.github.io/02-My-Portfolio/",
     "source": "https://github.com/Y1va/02-My-Portfolio?tab=readme-ov-file"
@@ -18,7 +17,6 @@
   {
     "title": "Movie Picker",
     "imageSrc": "projects/moviepicker.png",
-    "description": "Movie generator that helps you find movie recommendation based on certain preferences.",
     "skills": ["HTML", "CSS", "JavaScript"],
     "demo": "https://nuclearreid.github.io/Movie-Picker/",
     "source": "https://github.com/NuclearReid/Movie-Picker?tab=readme-ov-file"
@@ -26,7 +24,6 @@
   {
     "title": "Express Notetaker",
     "imageSrc": "projects/notetaker.png",
-    "description": "Note taker built with Express which can be used to save and delete notes.",
     "skills": ["Express", "Node", "JavaScript"],
     "demo": "https://note-taker-rz9p.onrender.com",
     "source": "https://github.com/Y1va/Note-Taker"
@@ -34,7 +31,6 @@
   {
     "title": "Password Generator",
     "imageSrc": "projects/passwordgen.png",
-    "description": "Password generator made using HTML, CSS and JavaScript",
     "skills": ["HTML", "CSS", "JavaScript"],
     "demo": "https://y1va.github.io/03-JS-Password-Generator/",
     "source": "https://github.com/Y1va/03-JS-Password-Generator"
@@ -42,7 +38,6 @@
   {
     "title": "Weather Application",
     "imageSrc": "projects/weatherapp.png",
-    "description": "Weather Application that pulls data from the openweather API.",
     "skills": ["HTML", "CSS", "JavaScript"],
     "demo": "https://y1va.github.io/Weather-API/",
     "source": "https://github.com/Y1va/Weather-API"
