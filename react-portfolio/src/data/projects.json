@@ -26,25 +26,25 @@
   {
     "title": "Express Notetaker",
     "imageSrc": "projects/notetaker.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Note taker built with Express which can be used to save and delete notes.",
     "skills": ["Express", "Node", "JavaScript"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://note-taker-rz9p.onrender.com",
+    "source": "https://github.com/Y1va/Note-Taker"
   },
   {
     "title": "Password Generator",
     "imageSrc": "projects/passwordgen.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Password generator made using HTML, CSS and JavaScript",
     "skills": ["HTML", "CSS", "JavaScript"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://y1va.github.io/03-JS-Password-Generator/",
+    "source": "https://github.com/Y1va/03-JS-Password-Generator"
   },
   {
     "title": "Weather Application",
     "imageSrc": "projects/weatherapp.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Weather Application that pulls data from the openweather API.",
     "skills": ["HTML", "CSS", "JavaScript"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://y1va.github.io/Weather-API/",
+    "source": "https://github.com/Y1va/Weather-API"
   }
 ]
